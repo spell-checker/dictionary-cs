@@ -3,7 +3,7 @@
 	"type": "library",
 	"description": "Czech dictionary for spell-checker and PhpStorm/InteliJ",
 	"homepage": "https://github.com/spell-checker/dictionary-cs",
-	"license": ["public-domain"],
+	"license": ["0BSD"],
 	"authors": [
 		{
 			"name": "Vlasta Neubauer",
